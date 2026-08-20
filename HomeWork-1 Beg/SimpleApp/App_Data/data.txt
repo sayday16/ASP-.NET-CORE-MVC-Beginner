@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, good, 6
+2, Laptop, 3200, bad, 0
+3, Keyboard, 35, great, 3
+4, Mouse, 10, good, 4
+5, Pen, 1, good, 8
+6, Notebook, 1, bad, 2
